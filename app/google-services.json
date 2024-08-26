@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "639149931788",
+    "project_id": "tarimes-65ea1",
+    "storage_bucket": "tarimes-65ea1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639149931788:android:dc07c68749efd41e3fdd29",
+        "android_client_info": {
+          "package_name": "com.example.tarimes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfrKfqwosMVWkSqpygOQznbi4-cIl9bN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
